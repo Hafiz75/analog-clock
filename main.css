@@ -1,0 +1,17 @@
+.clock{
+border:2px solid gray;
+border-radius:50%;
+width:17rem;
+height:17rem;
+position:relative;
+padding:2rem
+}
+.hand{
+position:absolute;
+top:50%;
+transform-origin:100%;
+background:black;
+width:40%;
+height:4px;
+transform:rotate(90deg)
+}
