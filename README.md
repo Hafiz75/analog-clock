@@ -1,2 +1,2 @@
 # analog-clock
-Analog clock whose made by js
+Analog clock create only HTML,CSS,JS
